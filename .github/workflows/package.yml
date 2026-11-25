@@ -6,6 +6,7 @@ on:
     branches:
       - main
       - 'v*'
+      - codex/verify-c-ares-branch-package
     tags:
       - 'v*'
 
